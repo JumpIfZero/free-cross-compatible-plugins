@@ -1,0 +1,34 @@
+[
+    {
+        "projectUrl":"https://discord.gg/j6754fvqyn",
+        "provider":"JZ",
+        "name":"JZ Kitty hider",
+        "description":"NPC and player hider",
+        "id":"jzkittyhider-plugin",
+        "releases":[
+            {
+                "date":"2023-01-15",
+                "sha512sum":"86E1C3C2DDA211018B1B6B9AC8E9AD4365C2F2DC73C5843F9E3AC20BBFA54709B46B107F7C84FA66A39D617EC6B2FEEA78984BF73B25B86CB4CE8185A0A13E0A",
+                "version":"1.0.1",
+                "url":"https://github.com/JumpIfZero/free-cross-compatible-plugins/blob/master/release/jzkittyhider-1.0.1-RELEASE.jar?raw=true",
+                "requires":"^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl":"https://discord.gg/j6754fvqyn",
+        "provider":"JZ",
+        "name":"JZ Kitty spellbook",
+        "description":"Customizable spellbook without client scripts",
+        "id":"jzkittyspellbook-plugin",
+        "releases":[
+            {
+                "date":"2023-01-15",
+                "sha512sum":"73D5C7763A51B19F74F937D2C57F00B43413BB85A34BF3B883AA059A3415AA4AD8AAC23A9326874A34E4837229962EB6CBA2160D29D4B0DD55B66492DDF683BD",
+                "version":"1.0.1",
+                "url":"https://github.com/JumpIfZero/free-cross-compatible-plugins/blob/master/release/jzkittyspellbook-1.0.1-RELEASE.jar?raw=true",
+                "requires":"^1.0.0"
+            }
+        ]
+    }
+]
