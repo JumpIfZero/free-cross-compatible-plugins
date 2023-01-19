@@ -28,6 +28,13 @@
                 "version":"1.0.1",
                 "url":"https://github.com/JumpIfZero/free-cross-compatible-plugins/blob/master/release/jzkittyspellbook-1.0.1-RELEASE.jar?raw=true",
                 "requires":"^1.0.0"
+            },
+            {
+                "date":"2023-01-19",
+                "sha512sum":"DEC84E5C755BF54DEB9CAEB8439BF6C864B5EDC63AD4510A43B5C973CD027A71BE12F65CB5FD5E7ACF1EE29F3D77543203DD2B83D05FD29D3F8470441677FFCF",
+                "version":"1.0.2",
+                "url":"https://github.com/JumpIfZero/free-cross-compatible-plugins/blob/master/release/jzkittyspellbook-1.0.2-RELEASE.jar?raw=true",
+                "requires":"^1.0.0"
             }
         ]
     }
